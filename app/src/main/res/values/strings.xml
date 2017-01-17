@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FaceNum</string>
+
+    <string name="hello_world">face munber: 0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_compare">CompareActivity</string>
+    <string name="title_activity_start">StartActivity</string>
+
+    <string name="isCompleteFront">检测到身份证正面图像四周有遮挡</string>
+    <string name="notCompleteFront">检测到身份证正面图像四周无遮挡</string>
+    <string name="isCompleteBack">检测到身份证背面图像四周有遮挡</string>
+    <string name="notCompleteBack">检测到身份证背面图像四周无遮挡</string>
+    <string-array name="featrues">
+        <item>银行卡</item>
+        <item>身份证</item>
+        <item>行驶证</item>
+        <item>驾驶证</item>
+        <item>二维码</item>
+        <item>车牌</item>
+    </string-array>
+
+</resources>

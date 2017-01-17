@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:apk="http://schemas.android.com/apk/res/android" apk:oneshot="true">
+    <item apk:drawable="@drawable/bot_face_background_n" apk:duration="800"/>
+    <item apk:drawable="@drawable/bot_face_background_r" apk:duration="800"/>
+    <item apk:drawable="@drawable/bot_face_background_n" apk:duration="800"/>
+    <item apk:drawable="@drawable/bot_face_background_l" apk:duration="800"/>
+    <item apk:drawable="@drawable/bot_face_background_n" apk:duration="800"/>
+    <item apk:drawable="@drawable/bot_face_background_o" apk:duration="800"/>
+    <item apk:drawable="@drawable/bot_face_background_n" apk:duration="800"/>
+
+</animation-list>
